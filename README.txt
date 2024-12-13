@@ -8,7 +8,7 @@ The objective of this project is to create a machine learning model that can pre
 This dataset was downloaded from Kaggle. The download link and column explanations are available and well-detailed within the project. The data are real and were collected in 1990 from a population consisting entirely of women aged 21 and over.
 
 # Author:
-Javier Arrieta
+Javier Arrieta.
 
 # Final Model Performance for the Project:
 The final model performance is completely balanced, as I focused on selecting the necessary features for training the model and understanding the importance of the initial data imbalance. Everything is explained in detail within the project. The final conclusions are based on the context and nature of this data and do not aim to replace or supplant high-tier scientific studies on diabetes.
